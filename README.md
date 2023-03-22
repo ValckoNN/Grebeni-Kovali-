@@ -9,3 +9,5 @@ ___
 - **Slides are written in Markdown**
 - Line Preview with 3 models
 - Supports emoji 
+
+#### Гребенкин Ковалев
